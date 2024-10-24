@@ -1,0 +1,9 @@
+               precision    recall  f1-score   support
+
+       Benign       0.79      0.90      0.84     47532
+Infilteration       0.59      0.38      0.46     18686
+        Label       1.00      1.00      1.00         7
+
+     accuracy                           0.75     66225
+    macro avg       0.79      0.76      0.77     66225
+ weighted avg       0.73      0.75      0.73     66225
